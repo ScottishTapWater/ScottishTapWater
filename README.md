@@ -1,110 +1,50 @@
-<div align="center">
-<h1 align="center">Hi, I'm James</h1>
-<h4 align="center">I'm a technical lead, a postgraduate researcher, a massive nerd, and an ardent defender of the Oxford comma.</h4>
-  <a align="center" href="https://stackoverflow.com/users/4700841/scottishtapwater"><img src="https://stackoverflow.com/users/flair/4700841.png?theme=dark" width="208" height="58" alt="profile for ScottishTapWater at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ScottishTapWater at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-</div>
+<h1 align="center">James McMahon</h1>
 
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg" alt="snake" />
-</div>
+<p align="center"><strong>CTO at <a href="https://gosimulate.com">GoSim</a> · Engineering Leader · Systems Builder</strong></p>
 
-<div>
+<p align="center">I've built software for factories, bookmakers, investment platforms, theatres, lawyers, and electric motors. This was apparently a plan.</p>
 
-</div>
+<p align="center"><em>Side quests include quantum random numbers, space debris, motorcycle dashboards, and giving language models root access. Scope control remains a work in progress.</em></p>
 
------
-<details>
-  <summary>☎️ Get In Touch</summary>
-<div>
-  <samp>
-    <h2 align="center">Here's Where You Can Find Me</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/jswhughes/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="jswhughes" height="30"/></a>
-      <a href="https://www.researchgate.net/profile/James-Hughes-40" target="blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="research gate" height="30"/></a>
-    </p>
-  </samp>
-</div>
-</details>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jswhughes/"><img alt="LinkedIn: jswhughes" src="https://img.shields.io/badge/LinkedIn-jswhughes-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://gosimulate.com"><img alt="GoSim: Reshaping Engineering Design" src="https://img.shields.io/badge/GoSim-Reshaping_Engineering_Design-222222?style=flat-square"></a>
+</p>
 
-<details>
-  <summary>💣 My Research</summary>
-<div>
-<samp>
-<h2 align="center">At What Point Does a Scientist Become "Mad"?</h2>
- <p align="center">
-  Well... It's early days still   
- </p>
+---
 
- </samp>
-</div>
-</details>
+### What I'm Doing
 
-<details>
-  <summary>📎 My Github</summary>
-<div>
-<samp>
-<h2 align="center">What Are You Even Looking For?</h2>
- <p align="center">
-  <a href="github.com/hughesjs" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=hughesjs&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>   
- <img align="center"
- src="https://raw.githubusercontent.com/hughesjs/custom-badges/master/made-in/made-in-scotland.svg" height="25"
-         alt="Made In Scotland" />      
- <img align="center"
- src="https://forthebadge.com/images/badges/built-with-science.svg" height="25"
- alt="Built With Science" /> 
-   
-  </p>
+I'm the CTO and current Lead Engineer at **[GoSim](https://gosimulate.com)**, a deep-tech startup developing a new approach to computational engineering design. We combine simulation, optimisation, and a less restrictive representation of geometry to explore manufacturable designs beyond predefined parametric templates, initially for electric motors.
 
- </samp>
-</div>
-</details>
-  
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center">Pump The Stock</h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/hughesjs/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hughesjs&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="hughesjs :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/hughesjs/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hughesjs&theme=gruvbox&layout=compact&hide_border=true"
-          alt="hughesjs :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hughesjs&theme=gruvbox&layout=compact&hide_border=true"
-          alt="hughesjs :: Top Langs by commit" />
-          </a>
-        </p>
-</details>
-    <details open>
-  <summary><h3>Contributions</h3></summary>
-        <p align="center">
-          <a href="https://github.com/hughesjs/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hughesjs&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hughesjs&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
+I'm building the engineering organisation from scratch: setting technical strategy, shaping the architecture, writing plenty of the code, and trying to prove that delivering quickly is compatible with paying people properly, respecting their lives, and making work somewhere they actually enjoy being.
 
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center">Can't Be Slacking Now</h2>
-  <img alt="hughesjs's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=hughesjs&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
-<br/>
-  </samp>
-  </details>
+### What I Care About
+
+My natural habitat is the awkward space between systems design, software architecture, hands-on engineering, and technical leadership. I'm a polyglot by necessity and a C# developer by default. I like complex systems, clear boundaries, useful abstractions, and organisations that do not require heroics to function.
+
+I'm particularly interested in AI where it earns its keep: useful systems, honest evaluation, and proportionate risk—without the benchmark theatre, apocalyptic hyperbole, or appeasing Roko's basilisk.
+
+Before GoSim, I built **FinLegal's AI team and product vertical** from scratch, including a custom multi-agent framework integrated into its claims platform. That work became a major part of the company's wider transformation and growth. I joined FinLegal's CTO to discuss the system and its design in [*Why Law Firms Need Agents & How We Built Them*](https://www.youtube.com/watch?v=QKXhdha_oVY) for AWS.
+
+### Research
+
+I'm awaiting the viva for an **MPhil at Aston University** on orbital environment monitoring and long-term simulation. The work examines how to model the evolution of space-debris populations and collision cascades over decades, with the aim of comparing mitigation strategies before we spend rather a lot of money launching them.
+
+The project began as a PhD. Work won the scheduling argument; the research survived.
+
+### Selected Open Source
+
+| Project | What It Does |
+| --- | --- |
+| [**sudo-mcp**](https://github.com/hughesjs/sudo-mcp) | Cross-platform MCP server for controlled, audited privilege escalation via polkit, sudo, or UAC. |
+| [**SuperFluid**](https://github.com/hughesjs/SuperFluid) | Roslyn source generator that turns a grammar into compile-time-safe fluent C# APIs. |
+| [**PgfPlotsSdk**](https://github.com/hughesjs/PgfPlotsSdk) | Generates publication-ready PGFPlots/LaTeX figures from C#. |
+| [**TFT Dash**](https://github.com/hughesjs/tft-dash-essentials) | A replacement motorcycle dashboard spanning firmware, hardware, simulation, and the display application. |
+| [**Space Data Tooling**](https://github.com/hughesjs/DiscosWebSdk) | C# SDKs for [ESA DISCOS](https://github.com/hughesjs/DiscosWebSdk), [Space-Track](https://github.com/hughesjs/SpaceTrackSdk), and [CelesTrak](https://github.com/hughesjs/CelesTrakSdk). |
+
+Most of these exist because I needed a tool, discovered it did not exist, and made that everyone else's problem too. Help maintaining them is always welcome.
+
+### Away from the Keyboard
+
+I scuba dive, ride motorbikes, play ice hockey, and climb rocks. Best make sure I don't live to regret my lack of pension contributions.
