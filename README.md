@@ -37,11 +37,11 @@ The project began as a PhD. Work won the scheduling argument; the research survi
 
 | Project | What It Does |
 | --- | --- |
-| [**sudo-mcp**](https://github.com/hughesjs/sudo-mcp) | Cross-platform MCP server for controlled, audited privilege escalation via polkit, sudo, or UAC. |
-| [**SuperFluid**](https://github.com/hughesjs/SuperFluid) | Roslyn source generator that turns a grammar into compile-time-safe fluent C# APIs. |
-| [**PgfPlotsSdk**](https://github.com/hughesjs/PgfPlotsSdk) | Generates publication-ready PGFPlots/LaTeX figures from C#. |
-| [**TFT Dash**](https://github.com/hughesjs/tft-dash-essentials) | A replacement motorcycle dashboard spanning firmware, hardware, simulation, and the display application. |
-| [**Space Data Tooling**](https://github.com/hughesjs/DiscosWebSdk) | C# SDKs for [ESA DISCOS](https://github.com/hughesjs/DiscosWebSdk), [Space-Track](https://github.com/hughesjs/SpaceTrackSdk), and [CelesTrak](https://github.com/hughesjs/CelesTrakSdk). |
+| [**sudo-mcp**](https://github.com/ScottishTapWater/sudo-mcp) | Cross-platform MCP server for controlled, audited privilege escalation via polkit, sudo, or UAC. |
+| [**SuperFluid**](https://github.com/ScottishTapWater/SuperFluid) | Roslyn source generator that turns a grammar into compile-time-safe fluent C# APIs. |
+| [**PgfPlotsSdk**](https://github.com/ScottishTapWater/PgfPlotsSdk) | Generates publication-ready PGFPlots/LaTeX figures from C#. |
+| [**TFT Dash**](https://github.com/ScottishTapWater/tft-dash-essentials) | A replacement motorcycle dashboard spanning firmware, hardware, simulation, and the display application. |
+| [**Space Data Tooling**](https://github.com/ScottishTapWater/DiscosWebSdk) | C# SDKs for [ESA DISCOS](https://github.com/ScottishTapWater/DiscosWebSdk), [Space-Track](https://github.com/ScottishTapWater/SpaceTrackSdk), and [CelesTrak](https://github.com/ScottishTapWater/CelesTrakSdk). |
 
 Most of these exist because I needed a tool, discovered it did not exist, and made that everyone else's problem too. Help maintaining them is always welcome.
 
