@@ -7,7 +7,7 @@
 <p align="center"><em>Side quests include quantum random numbers, space debris, motorcycle dashboards, and giving language models root access. Scope control remains a work in progress.</em></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jswhughes/"><img alt="LinkedIn: jswhughes" src="https://img.shields.io/badge/LinkedIn-jswhughes-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jsmcmahon/"><img alt="LinkedIn: jswhughes" src="https://img.shields.io/badge/LinkedIn-jsmcmahon-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://gosimulate.com"><img alt="GoSim: Reshaping Engineering Design" src="https://img.shields.io/badge/GoSim-Reshaping_Engineering_Design-222222?style=flat-square"></a>
 </p>
 
