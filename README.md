@@ -48,3 +48,7 @@ Most of these exist because I needed a tool, discovered it did not exist, and ma
 ### Away from the Keyboard
 
 I scuba dive, ride motorbikes, play ice hockey, and climb rocks. Best make sure I don't live to regret my lack of pension contributions.
+
+---
+
+*This is my personal GitHub account, which I also use for work. Unless explicitly stated otherwise, views expressed here are my own and do not necessarily represent GoSim.*
